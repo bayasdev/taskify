@@ -58,7 +58,7 @@ const handler = async (data: InputType): Promise<ReturnType> => {
                 name: 'Taskify Pro',
                 description: 'Tableros ilimitados para tu organización',
               },
-              unit_amount: 10,
+              unit_amount: 1000,
               recurring: {
                 interval: 'month',
               },
